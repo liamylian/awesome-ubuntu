@@ -59,7 +59,7 @@
 - [NightEye](https://nighteye.app/) 黑暗模式插件
 - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 代理管理插件
 - [Json Formatter](https://github.com/callumlocke/json-formatter) Json格式化插件
-- [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) Vim插件
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?utm_source=chrome-ntp-icon) Vim插件
 
 
 
