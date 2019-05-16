@@ -5,7 +5,7 @@
 
 ## IDE
 
-- [Visual Studio Code](https://code.visualstudio.com/) 代码编辑器
+- [Visual Studio Code](https://code.visualstudio.com) All in one代码编辑器
 - [Intelj IDEA](http://www.jetbrains.com/idea) Java集成开发环境
 - [Goland](http://www.jetbrains.com/go) GoLang集成开发环境
 - [CLion](http://www.jetbrains.com/clion) C/C++集成开发环境
@@ -19,14 +19,34 @@
 - [DataGrid](http://www.jetbrains.com/datagrip)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
+
 ## 调试工具
 
 - [Postman](https://www.getpostman.com/) API调试工具
+- [Restlet Client](https://restlet.com/modules/client) API调试工具
+
+
+## 版本管理
+
+- [Git](https://git-scm.com/)
+- [SmartGit](https://www.syntevo.com/smartgit) Git图形客户端
+- [SourceTree](https://www.sourcetreeapp.com) Git图形客户端
+- [Meld](http://meldmerge.org) 文件比较合并
+
+
+## 虚拟化
+
+- [Docker](https://www.docker.com) 开源应用容器引擎
+- [Docker Compose](https://github.com/docker/compose) 多容器管理
+- [Minikube](https://github.com/kubernetes/minikube) Kubernetes本地实验环境
+- [Vagrant](https://www.vagrantup.com) 虚拟化开发环境管理工具 
+- [VirtualBox](https://www.virtualbox.org) 开源虚拟机软件
+
 
 ## 办公
 
 - [钉钉（非官方）](https://github.com/yutent/dtalk-app) 
-- [微信(非官方)](https://github.com/geeeeeeeeek/electronic-wechat)
+- [微信（非官方）](https://github.com/geeeeeeeeek/electronic-wechat)
 
 
 ## 输入法
@@ -34,11 +54,14 @@
 - [搜狗输入法](https://pinyin.sogou.com/linux)
 
 
-## 其他
+## Chrome插件
 
-- [NightEye](https://nighteye.app/) Chrome黑暗模式插件，减轻眼睛疲劳
+- [NightEye](https://nighteye.app/) 黑暗模式插件
+- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 代理管理插件
+- [Json Formatter](https://github.com/callumlocke/json-formatter) Json格式化插件
+
 
 
 ## 贡献
 
- 欢迎把你常或喜欢的Linux工具也分享给大家，只需提交Merge Request即可。
+ 欢迎把你常用或喜欢的Linux工具也分享给大家！
