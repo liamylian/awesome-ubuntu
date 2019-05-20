@@ -3,21 +3,30 @@
 开发者实用工具列表
 
 
-## IDE
+## 编辑器及IDE
 
-- [Visual Studio Code](https://code.visualstudio.com) All in one代码编辑器
+- [Sublime Text](https://www.sublimetext.com/) 轻量级的代码及文本编辑工具
+- [Visual Studio Code](https://code.visualstudio.com) 微软推出的代码编辑器
+- [Atom](https://atom.io/) Github专门为程序员推出的一个跨平台文本编辑器
 - [Intelj IDEA](http://www.jetbrains.com/idea) Java集成开发环境
 - [Goland](http://www.jetbrains.com/go) GoLang集成开发环境
 - [CLion](http://www.jetbrains.com/clion) C/C++集成开发环境
 - [Pycharm](http://www.jetbrains.com/pycharm) Python集成开发环境
 - [PhpStorm](http://www.jetbrains.com/phpstorm) PHP集成开发环境
 - [WebStorm](http://www.jetbrains.com/webstorm) HTML/CSS/Javascript集成开发环境
+- [Android Studio](https://developer.android.com/studio/) 谷歌推出的安卓集成开发环境
+
+## Markdown
+
+- [Remarkable](https://remarkableapp.github.io/) Markdown编辑及阅读器
+- [Typora](https://typora.io/#linux) Markdown编辑及阅读器
 
 
 ## 数据库工具
 
 - [DataGrid](http://www.jetbrains.com/datagrip)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [Navicat](https://www.navicat.com/en/)
 
 
 ## 调试工具
@@ -47,6 +56,10 @@
 
 - [钉钉（非官方）](https://github.com/yutent/dtalk-app) 
 - [微信（非官方）](https://github.com/geeeeeeeeek/electronic-wechat)
+- [WPS](https://www.wps.cn/product/wpslinux) WPS Office办公软件
+- [LibreOffice](https://www.libreoffice.org/) 开源Office套件
+- [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) PDF编辑及阅读器
+
 
 
 ## 输入法
@@ -61,6 +74,9 @@
 - [Json Formatter](https://github.com/callumlocke/json-formatter) Json格式化插件
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?utm_source=chrome-ntp-icon) Vim插件
 
+
+## 网络分析
+- [Wireshark](https://www.wireshark.org/) 网络抓包工具 
 
 
 ## 贡献
